@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">News App</string>
+    <string name="bottom_sheet_option_share">Поделиться</string>
+    <string name="sample_title_long">Выборы в Кыргызстане намечены на 4 октября</string>
+    <string name="sample_source">Акипресс • 1ч</string>
+    <string name="sample_title">Зачем встречались Путин и Трамп?</string>
+    <string name="sample_description">Оперативный штаб по борьбе с коронавирусной инфекцией сообщил, что Москва располагает необходимыми мощностями на случай ухудшения ситуации с COVID-19. </string>
+    <string name="title_headlines">Headlines</string>
+</resources>
